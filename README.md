@@ -32,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the variable names for auto-filling methods were different than tutorials which caused some issues.
 
 ## License
 
